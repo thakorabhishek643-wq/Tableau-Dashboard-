@@ -16,3 +16,30 @@ Geographically, states like Uttar Pradesh, Maharashtra, and Karnataka lead in EV
 
  # FEEDBACK & COLLABORATION
 your feedback is welcome! if you'd like to collaboration and discuss similar opportunities ,feel free to reach out
+
+ # DAILY TRANSACTION 
+ # KPI's 
+ Total transaction = "2.46 k" <br />
+ Total income =  "3.04 M" <br />
+ Total expenes = "1.96 M" <br />
+ Total trasfer out = "1.77 M" <br />
+
+# KEY INSIGHT 
+ Banking is the most frequent subcategory, followed by Home, Public Provident Fund, Bike, and Appliances, highlighting key household financial priorities.
+
+"Saving Bank Account 1" dominates as the primary mode of transaction, indicating a strong reliance on a single financial account.
+
+Transportation and Food are recurring expense categories, pointing to regular day-to-day spending.
+
+Most transactions are labeled as Expense, and many entries show small daily purchases, suggesting detailed personal finance tracking.
+
+There's a noticeable spike in income and transfer-out activity in the mid-period of the timeline, potentially indicating a bonus, asset sale, or high-value transaction month
+
+A total of 2.46K transactions were recorded, with $3.04M in income, $1.96M in expenses, and $1.77M in transfer-outs, indicating overall financial health with surplus income.
+
+
+
+
+
+
+ 
