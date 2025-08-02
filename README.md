@@ -1,6 +1,6 @@
 # TABLEAU DASHBOARD PROJECTS
- This dashboard provides valuable & insightful and comprehensive study about the the data and transfer the data into the meaningful visual effective dashboard.
-
+ This dashboard's provides valuable & insightful and comprehensive study about the the data and transfer the data into the meaningful and effective visual dashboard.
+ 
 
  
 # PROJECT 1  " EV SALES "
