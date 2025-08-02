@@ -64,7 +64,9 @@ Manufacturing costs are concentrated, with 40.35% of the cost coming from a spec
 
 # REPOSITARY STRUCTURE
 Data = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/finacial%20data/financial_data%20(1).csv <br />
+
 Dashboard = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/finacial%20data/financial%20data.twbx  <br />
+
 Image = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/finacial%20data/Screenshot%20(36).png <br />
 
 
