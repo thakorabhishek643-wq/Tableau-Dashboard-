@@ -139,13 +139,13 @@ Image 2 = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/p
 # PROJECT 6 "SUPPLY CHAIN MANAGEMENT" 
 
 # KPI's 
-Total order = " 100 "
-Revenue generated = " 577.6 K "
-Avg delivery time = " 6 "
-On time delivery rate = " 83% "
-Order quantity = " 4.9 K "
-No of product sold = " 46.1 K " 
-Avg TU rate = " 483 "
+Total order = " 100 " <br />
+Revenue generated = " 577.6 K " <br />
+Avg delivery time = " 6 " <br />
+On time delivery rate = " 83% " <br />
+Order quantity = " 4.9 K " <br />
+No of product sold = " 46.1 K " <br />
+Avg TU rate = " 483 " <br />
 
 # KEY INSIGHT
 The supply chain data reveals strong overall performance, with 100 total orders generating ₹577.6K in revenue and an average delivery time of 6 days. A solid on-time delivery rate of 83% and a high inventory turnover ratio of 483 indicate efficient order fulfillment and inventory movement. Road transportation stands out as the fastest mode (4.7 days), while Route C achieves the highest on-time delivery rate at 85%.
