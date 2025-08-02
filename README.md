@@ -17,7 +17,7 @@ Geographically, states like Uttar Pradesh, Maharashtra, and Karnataka lead in EV
  # FEEDBACK & COLLABORATION
 your feedback is welcome! if you'd like to collaboration and discuss similar opportunities ,feel free to reach out
 
- # DAILY TRANSACTION 
+ #  PROJECT 2 "DAILY TRANSACTION" 
  # KPI's 
  Total transaction = "2.46 k" <br />
  Total income =  "3.04 M" <br />
@@ -37,8 +37,10 @@ There's a noticeable spike in income and transfer-out activity in the mid-period
 
 A total of 2.46K transactions were recorded, with $3.04M in income, $1.96M in expenses, and $1.77M in transfer-outs, indicating overall financial health with surplus income.
 
-
-
+# REPOSITARY STRUCTURE
+Data = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/daily%20transaction/Daily%20Household%20Transactions%20(1).csv
+Dashboard = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/daily%20transaction/daily%20transaction.twbx
+Image = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/daily%20transaction/Screenshot%20(37).png
 
 
 
