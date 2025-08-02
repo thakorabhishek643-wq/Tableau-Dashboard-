@@ -9,7 +9,7 @@ Geographically, states like Uttar Pradesh, Maharashtra, and Karnataka lead in EV
 
 # REPOSITARY STRUCTURE
  Data = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/EV%20sales/Electric%20Vehicle%20Sales%20by%20State%20in%20India.csv <br />
- Dashboard = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/EV%20sales/India%20ev%20sales.twbx
- Images = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/EV%20sales/Screenshot%20(40).png
+ Dashboard = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/EV%20sales/India%20ev%20sales.twbx <br />
+ Images = https://github.com/thakorabhishek643-wq/Tableau-Dashboard-/blob/main/EV%20sales/Screenshot%20(40).png <br />
 
  
